@@ -11,11 +11,11 @@
     width: 500px;
 }
 
-.mainelement{
+/* .mainelement{ */
     /* display: flex; */
     /* flex-direction: row; */
     /* display: inline-block; */
-}
+/* } */
 .subform{
     display: flex;
 
